@@ -1,10 +1,8 @@
-# Analog Clock
+# Mesmerising Clock
 
-This app is an example of an analog clock.
-It has a light theme and a dark theme, and displays sample weather and location data.
+This clock was designed for the Flutter Clock Challenge. It features 32 arcs which rotate in time to the minutes and seconds forming a mesmerising  beautiful pattern in a calming pallette. 
 
-<img src='analog.gif' width='350'>
+<img src='screenshot_light.png' width='350'>
 
-<img src='analog_dark.png' width='350'>
+<img src='screenshot_dark.png' width='350'>
 
-<img src='analog_light.png' width='350'>
